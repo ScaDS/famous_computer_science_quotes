@@ -1,0 +1,5 @@
+_build
+.ipynb_checkpoints
+.idea
+01_prompts/vgsales.csv
+Untitled*
