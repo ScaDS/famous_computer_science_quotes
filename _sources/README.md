@@ -1,6 +1,7 @@
 # Famous Computer Science Quotes
 
-This Jupyter Book contains a collection of cites from computer scientists in the context of data science and artificial intelligence
+This Jupyter Book contains a collection of cites from computer scientists in the context of data science and artificial intelligence.
+The repository serves training purposes at the [DataWeek Leipzig 2024](https://2024.dataweek.de/): We learn how to fork, send pull-requests and merge contents on github.com.
 
 You can read its content at
 
